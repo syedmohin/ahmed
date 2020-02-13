@@ -1,0 +1,22 @@
+.bg-black{
+	background-color: black;
+}
+
+img{
+	height: 100%;
+    width: 100%;
+}
+
+.font-div{
+	width: 30%;
+}
+
+
+/*
+//// responsive///*/
+
+@media only screen and (min-width: 1198px){
+    .font-div{
+    	padding: 105px 0px!important;
+    }
+}
