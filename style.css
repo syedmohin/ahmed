@@ -6,11 +6,35 @@ img{
 	height: 100%;
     width: 100%;
 }
+.jet{
+	font-family: jet;
+}
 
 .font-div{
 	width: 30%;
 }
 
+@font-face{
+	font-family: roboto;
+	src: url(roboto.ttf);
+}
+@font-face{
+	font-family: jet;
+	src: url(jet.ttf);
+}
+
+@font-face {
+	font-family: lemdo;
+	src: url(Lemonada.ttf);
+}
+
+.fonts{
+	font-family: roboto;
+}
+
+.web{
+	font-family: lemdo;
+}
 
 /*
 //// responsive///*/
